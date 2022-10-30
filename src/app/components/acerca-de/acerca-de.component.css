@@ -10,9 +10,9 @@ div{
 @media (min-width: 576px){
     #fotodeperfil{
         position: absolute;
-        width: 15%;
+        width: 12%;
         border-radius: 100%;
-        left: 5%;
+        left: 4.5%;
     }
 }
 @media (max-width: 575px){
@@ -22,7 +22,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 630px;
+        top: 950px;
     }
 }
 
