@@ -13,6 +13,7 @@ import { EducacionComponent } from './components/educacion/educacion.component';
 import { FormsModule } from '@angular/forms';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { HysComponent } from './components/hys/hys.component';
+import { ProyectoComponent } from './components/proyecto/proyecto.component';
 
 
 
@@ -28,6 +29,7 @@ import { HysComponent } from './components/hys/hys.component';
     ExperienciaComponent,
     EducacionComponent,
     HysComponent,
+    ProyectoComponent,
   ],
   imports: [
     BrowserModule,
